@@ -1,0 +1,7 @@
+medicalapp/config.py
+medicalapp/.env
+venv
+.idea
+medicalapp/__pycache__
+medicalapp/user.db
+medicalapp/files.db
